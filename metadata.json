@@ -1,0 +1,6 @@
+{
+  "name": "Denti Rhythm Rockstars",
+  "description": "Interactive rhythm decoding, ear-training game, and leaderboard designed for elementary Chromebook music classrooms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

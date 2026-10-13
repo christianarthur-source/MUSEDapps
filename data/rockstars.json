@@ -1,0 +1,240 @@
+{
+  "students": [
+    {
+      "id": "s_maya",
+      "name": "Drummer Maya",
+      "avatar": "🥁",
+      "passcode": "1234",
+      "classCode": "ROOM-101",
+      "totalScore": 3850,
+      "highestStreak": 12,
+      "quizzesCompleted": 15,
+      "levelProgress": {
+        "1": {
+          "stars": 3,
+          "highAccuracy": 100
+        },
+        "2": {
+          "stars": 3,
+          "highAccuracy": 95
+        },
+        "3": {
+          "stars": 3,
+          "highAccuracy": 90
+        },
+        "4": {
+          "stars": 3,
+          "highAccuracy": 92
+        },
+        "5": {
+          "stars": 3,
+          "highAccuracy": 90
+        },
+        "6": {
+          "stars": 3,
+          "highAccuracy": 88
+        }
+      },
+      "badges": [
+        "quarter_master",
+        "eighth_explorer",
+        "broken_beat_boss",
+        "triplet_titan",
+        "rhythm_maestro"
+      ],
+      "updatedAt": "2026-10-12T14:23:14.190Z"
+    },
+    {
+      "id": "s_leo",
+      "name": "Leo Shredder",
+      "avatar": "🎸",
+      "passcode": "1234",
+      "classCode": "ROOM-101",
+      "totalScore": 2980,
+      "highestStreak": 9,
+      "quizzesCompleted": 12,
+      "levelProgress": {
+        "1": {
+          "stars": 3,
+          "highAccuracy": 100
+        },
+        "2": {
+          "stars": 3,
+          "highAccuracy": 90
+        },
+        "3": {
+          "stars": 3,
+          "highAccuracy": 90
+        },
+        "4": {
+          "stars": 3,
+          "highAccuracy": 85
+        },
+        "5": {
+          "stars": 2,
+          "highAccuracy": 80
+        }
+      },
+      "badges": [
+        "quarter_master",
+        "eighth_explorer",
+        "broken_beat_boss"
+      ],
+      "updatedAt": "2026-10-12T13:23:14.190Z"
+    },
+    {
+      "id": "s_zoe",
+      "name": "Zoe BeatBox",
+      "avatar": "🎤",
+      "passcode": "1234",
+      "classCode": "ROOM-101",
+      "totalScore": 2150,
+      "highestStreak": 8,
+      "quizzesCompleted": 10,
+      "levelProgress": {
+        "1": {
+          "stars": 3,
+          "highAccuracy": 95
+        },
+        "2": {
+          "stars": 3,
+          "highAccuracy": 85
+        },
+        "3": {
+          "stars": 2,
+          "highAccuracy": 85
+        },
+        "4": {
+          "stars": 2,
+          "highAccuracy": 80
+        }
+      },
+      "badges": [
+        "quarter_master",
+        "eighth_explorer"
+      ],
+      "updatedAt": "2026-10-12T12:23:14.190Z"
+    },
+    {
+      "id": "s_sam",
+      "name": "Sam Keytar",
+      "avatar": "🎹",
+      "passcode": "1234",
+      "classCode": "ROOM-101",
+      "totalScore": 1650,
+      "highestStreak": 6,
+      "quizzesCompleted": 8,
+      "levelProgress": {
+        "1": {
+          "stars": 3,
+          "highAccuracy": 90
+        },
+        "2": {
+          "stars": 2,
+          "highAccuracy": 80
+        },
+        "3": {
+          "stars": 2,
+          "highAccuracy": 80
+        }
+      },
+      "badges": [
+        "quarter_master",
+        "eighth_explorer"
+      ],
+      "updatedAt": "2026-10-12T11:23:14.190Z"
+    },
+    {
+      "id": "s_charlie",
+      "name": "Charlie Bass",
+      "avatar": "⚡",
+      "passcode": "1234",
+      "classCode": "ROOM-101",
+      "totalScore": 1320,
+      "highestStreak": 5,
+      "quizzesCompleted": 6,
+      "levelProgress": {
+        "1": {
+          "stars": 2,
+          "highAccuracy": 85
+        },
+        "2": {
+          "stars": 2,
+          "highAccuracy": 75
+        }
+      },
+      "badges": [
+        "quarter_master"
+      ],
+      "updatedAt": "2026-10-12T10:23:14.190Z"
+    },
+    {
+      "id": "s_mv5ej5nfmahl",
+      "name": "Alex Beat",
+      "avatar": "⚡",
+      "passcode": "1234",
+      "classCode": "ROOM-101",
+      "totalScore": 300,
+      "highestStreak": 3,
+      "quizzesCompleted": 1,
+      "levelProgress": {
+        "1": {
+          "stars": 3,
+          "highAccuracy": 100
+        }
+      },
+      "badges": [
+        "quarter_master"
+      ],
+      "updatedAt": "2026-10-12T15:23:25.679Z"
+    },
+    {
+      "id": "s_mv5epy9w8vck",
+      "name": "Drummer boy 1",
+      "avatar": "🥁",
+      "passcode": "1234",
+      "classCode": "ROOM-101",
+      "totalScore": 1030,
+      "highestStreak": 2,
+      "quizzesCompleted": 4,
+      "levelProgress": {
+        "1": {
+          "stars": 0,
+          "highAccuracy": 100
+        },
+        "6": {
+          "stars": 0,
+          "highAccuracy": 100
+        }
+      },
+      "badges": [],
+      "updatedAt": "2026-10-12T17:48:34.269Z"
+    },
+    {
+      "id": "s_mv5jw6rihx5f",
+      "name": "Bassist Jack",
+      "avatar": "🎸",
+      "passcode": "1234",
+      "classCode": "ROOM-101",
+      "totalScore": 0,
+      "highestStreak": 0,
+      "quizzesCompleted": 0,
+      "levelProgress": {},
+      "badges": [],
+      "updatedAt": "2026-10-12T17:53:27.870Z"
+    },
+    {
+      "id": "s_mv5jy8ig3dbo",
+      "name": "Bass Player Alex",
+      "avatar": "🎸",
+      "passcode": "1234",
+      "classCode": "ROOM-101",
+      "totalScore": 0,
+      "highestStreak": 0,
+      "quizzesCompleted": 0,
+      "levelProgress": {},
+      "badges": [],
+      "updatedAt": "2026-10-12T17:55:03.448Z"
+    }
+  ]
+}
