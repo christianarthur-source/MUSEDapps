@@ -1,8 +1,8 @@
-name: Deploy Vite App to GitHub Pages
+name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: ["main"] # If your branch is master, change this to "master"
+    branches: ["main"] # Change to master if your default branch is master
   workflow_dispatch:
 
 permissions:
@@ -18,19 +18,20 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Node
+      - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
-          cache: "npm"
+          node-version: 22 # Updated from 20 to avoid deprecation warnings
 
       - name: Install dependencies
-        run: npm ci
+        run: npm install # Uses standard install instead of npm ci
 
-      - name: Build project
+      - name: Build site
+        env:
+          VITE_GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: npm run build
 
       - name: Setup Pages
