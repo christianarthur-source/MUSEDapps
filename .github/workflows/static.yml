@@ -27,7 +27,7 @@ jobs:
           node-version: 22 # Updated from 20 to avoid deprecation warnings
 
       - name: Install dependencies
-        run: npm install # Uses standard install instead of npm ci
+        run: npm install --legacy-peer-deps
 
       - name: Build site
         env:
