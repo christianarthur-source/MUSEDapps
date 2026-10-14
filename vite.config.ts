@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    plugins: [react(), tailwindcss()],
+    plugins: [react(), base: '/MUSEDapps/', tailwindcss()], 
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),
